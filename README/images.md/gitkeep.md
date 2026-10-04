@@ -30,7 +30,7 @@ tail -f /var/log/bad.log
 
 
 *![Problem Screenshot](images.md/1st.png).*
-```
+
 
 New lines kept coming. This confirmed the problem.
 
